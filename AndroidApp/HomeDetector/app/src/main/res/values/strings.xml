@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">家庭探头</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="xml_error">解析XML时发生错误</string>
+
+    <string name="pref_ServerAddress">pref_ServerAddress</string>
+    <string name="pref_ServerPort">pref_ServerPort</string>
+    <string name="pref_Interval">pref_Interval</string>
+    <string name="pref_UserAccountID">pref_UserAccountID</string>
+
+    <string name="String_Alarm_zh">报警</string>
+    <string name="String_Normal_zh">正常</string>
+    <string name="cancelAlarmFor10s">知道了，15秒内不要提醒我</string>
+
+</resources>

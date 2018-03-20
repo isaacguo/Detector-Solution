@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserAccounts>
+  <UserAccount ID="1" Name="Tom">
+    <Detectors>
+      <Detector ID="1" Status="Normal">
+        <Description>烟雾报警器</Description>
+      </Detector>
+      <Detector ID="2" Status="Normal">
+        <Description>火灾报警器</Description>
+      </Detector>
+      <Detector ID="3" Status="Normal">
+        <Description>燃气报警器</Description>
+      </Detector>
+      <Detector ID="4" Status="Normal">
+        <Description>其它报警器</Description>
+      </Detector>
+    </Detectors>
+  </UserAccount>
+  <UserAccount ID="2" Name="Jack">
+    <Detectors>
+      <Detector ID="1" Status="Normal">
+        <Description>厨房的探头</Description>
+      </Detector>
+      <Detector ID="2" Status="Normal">
+        <Description>客厅的探头</Description>
+      </Detector>
+    </Detectors>
+  </UserAccount>
+</UserAccounts>
